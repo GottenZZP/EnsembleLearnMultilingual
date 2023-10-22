@@ -5,4 +5,7 @@ huggingface/
 logging/
 model/
 paper_data/
+.ipynb_checkpoints/
+.idea/
+File struct.md
 Untitled.ipynb
